@@ -31,5 +31,5 @@ The dataset (`Housing.csv`) contains 545 entries with 13 columns, including both
 ## Repository Structure
 * `analysis.ipynb`: The complete Jupyter Notebook containing all Python code, data cleaning, modeling, and visualizations.
 * `Housing.csv`: The dataset used for training and testing.
-* `charts/`: Folder containing exported visual insights (Heatmap, Price Distribution, etc.).
+* different png containing charts.
 * `summary.pdf`: A concise 1-page summary of the project findings.
